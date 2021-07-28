@@ -1,0 +1,18 @@
+#header1{
+  color:#8b4513;
+  size:120px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#header3{
+  color:#987654;
+  size:80px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial,sans-serif;
+}
+#normtext{
+  color:#ba8759;
+  size:80px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial,sans-serif;
+}
+ol{
+  list-style-type:none;
+}
